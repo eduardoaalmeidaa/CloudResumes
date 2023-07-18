@@ -1,9 +1,9 @@
-Relógio Digital
-Este é um projeto de um relógio digital simples desenvolvido em Html-Css-JavaScript. Ele exibe a hora atual em formato digital, proporcionando uma maneira fácil de acompanhar o tempo.
+# Currículos na Nuvem
 
-Funcionalidades
-Exibe a hora atual em formato digital, com horas, minutos e segundos.
-Atualiza automaticamente a cada segundo.
+Este repositório contém o código-fonte de um site de currículos focado em experiências e habilidades relacionadas à Amazon Web Services (AWS). O objetivo principal do site é fornecer uma plataforma para que os usuários possam criar e compartilhar seus currículos com ênfase em suas competências em serviços e tecnologias da AWS.
 
-![image](https://github.com/eduardoaalmeidaa/relogio_digital/assets/89856553/c2c2d710-3c98-403e-ae1b-039dc411691d)
+## Tecnologias Utilizadas
 
+HTML, CSS, JavaScript
+
+![image](https://github.com/eduardoaalmeidaa/CurriculosNaNuvem/assets/89856553/5ca81d8b-f501-49de-b695-302e652f06a5)
